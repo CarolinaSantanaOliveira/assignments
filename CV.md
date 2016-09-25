@@ -6,8 +6,8 @@ Professor Verbernelaan 41, Tilburg, Netherlands | +31 06 30801819 | c.santanaoli
 **Exchange Program at Tilburg University** *2015*
 
 ###EXPERIENCE
-**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE)** *Rio de Janeiro, Brazil*         
-*Research Assistant 2015-2016*
+**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant** *2015-2016*            
+*Rio de Janeiro, Brazil*         
 - Analyzed price index
 - Helped calculate price index of the railway sector
 - Prepared reports and presentations
