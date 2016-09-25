@@ -6,4 +6,5 @@ Professor Verbernelaan 41, Tilburg, Netherlands | +31 06 30801819 | c.santanaoli
 **Exchange Program at Tilburg University** *2015*
 
 ###EXPERIENCE
-**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE)**
+**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant** *2015-2016*
+
