@@ -11,6 +11,7 @@ Professor Verbernelaan 41, Tilburg, Netherlands | +31 06 30801819 | c.santanaoli
 - Helped calculate price index of the railway sector
 - Prepared reports and presentations
 
-
-
+###SKILLS
+**-Computer:**Advanced knowledge of R and Excel; some knowledge of VBA and Stata
+**-Languages:**Native Portuguese, Fluent English, Basic Spanish
 
