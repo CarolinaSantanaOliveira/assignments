@@ -17,4 +17,4 @@ Professor Verbernelaan 41, Tilburg, Netherlands | +31 06 30801819 | c.santanaoli
 - **Languages:** Native Portuguese, Fluent English, Basic Spanish
 - **Volunteer:** Created a project with colleagues to exchange culture between exchange students from PUC-Rio and children from *Favela* Vidigal (2016) 
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
-- **Other:** Photography studies
+- **Other:** Photography studies (2014)
