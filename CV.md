@@ -14,7 +14,7 @@ Professor Verbernelaan 41, Tilburg, Netherlands | +31 06 30801819 | c.santanaoli
 
 ###SKILLS
 - **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata and Python
-- **Languages:** Native Portuguese, Fluent English, Basic Spanish
+- **Languages:** Native Portuguese, Fluent English, Intermediary Spanish
 - **Volunteer:** Created a project with colleagues to exchange culture between exchange students from PUC-Rio and children from *Favela* Vidigal (2016) 
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
