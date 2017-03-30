@@ -1,5 +1,6 @@
-## Carolina Sant'Ana Oliveira
-Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santanaoliveira@tilburguniversity.edu
+## Carolina Sant'Ana Oliveira                                         <img src="https://github.com/CarolinaSantanaOliveira/assignments/blob/master/3x4%20foto.jpg" width="70">
+Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santanaoliveira@tilburguniversity.edu   
+
 ### EDUCATION
 **MSc Economics - track Behavioral Economics, Tilburg University** *Expected July 2017*
 
