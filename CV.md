@@ -4,9 +4,13 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 ### EDUCATION
 **MSc Economics - track Behavioral Economics, Tilburg University** *Expected July 2017*
 
+  - Master thesis "How do movie grades of previous users and of experts affect the ratting of following users?"
+  - Weighted average score: 8.22
+
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (PUC-Rio)** *2012-2016*
 
   - Gave the commencement speech
+  - Weighted average score: 7.6
   
 **Exchange Program at Tilburg University** *2015*
 
@@ -17,9 +21,15 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 - Helped calculate price index of the railway sector
 - Prepared reports and presentations
 
+**Volunteer Work - *Troca Cultural* Project** *2016*
+*Project in which exchange students from PUC-Rio and children from Favela Vidigal exchange culture*
+- Created the project with colleagues
+- Conducted the communication between an institution at *Favela* Vidigal and international students
+- Provided food and transportation for international students and children from *Favela* Vidigal
+
 ### SKILLS
 - **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata and Python
 - **Languages:** Native Portuguese, Fluent English, Intermediary Spanish
-- **Volunteer:** Created a project with colleagues to exchange culture between exchange students from PUC-Rio and children from *Favela* Vidigal (2016) 
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
+- **Interests:** Arts, Sports, Travelings
