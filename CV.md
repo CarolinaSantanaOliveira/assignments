@@ -1,8 +1,9 @@
 ## Carolina Sant'Ana Oliveira   
+Portuguese/Brazilian | 23 years old |
 Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santanaoliveira@tilburguniversity.edu   
 
 ### EDUCATION
-**MSc Economics - track Behavioral Economics, Tilburg University** *Expected July 2017*
+**MSc Economics - Behavioral Economics track, Tilburg University** *Expected July 2017*
 
   - Master thesis "How do movie grades of previous users and of experts affect the ratting of following users?"
   - Weighted average score: 8.22
@@ -21,7 +22,7 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 - Helped calculate price index of the railway sector
 - Prepared reports and presentations
 
-**Volunteer Work - *Troca Cultural* Project** *2016*
+**Volunteer Work - *Troca Cultural* Project (2016)**
 *Project in which exchange students from PUC-Rio and children from Favela Vidigal exchange culture*
 - Created the project with colleagues
 - Conducted the communication between an institution at *Favela* Vidigal and international students
