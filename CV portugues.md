@@ -2,7 +2,7 @@
 Portuguesa/Brasileira | 23 anos |
 Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santanaoliveira@tilburguniversity.edu   
 
-### Formação
+### FORMAÇÃO
 **MSc Economics - Behavioral Economics track, Tilburg University** *Formação prevista para Julho 2017*
 
   - Tese "How do movie grades of previous users and of experts affect the ratting of following users?"
