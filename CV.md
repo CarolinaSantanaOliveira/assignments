@@ -5,7 +5,7 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 ### EDUCATION
 **MSc Economics - Behavioral Economics track, Tilburg University** *Expected July 2017*
 
-  - Master thesis "How do movie grades of previous users and of experts affect the ratting of following users?"
+  - Master thesis "Herding and the effect of experts on online movie ratings"
   - Average score 8.22/ 10
 
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (PUC-Rio)** *2012-2016*
