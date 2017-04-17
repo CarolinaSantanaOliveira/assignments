@@ -25,8 +25,7 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 **Volunteer Work - *Troca Cultural* Project (2016)**
 *Project in which exchange students from PUC-Rio and children from Favela Vidigal exchange culture*
 - Created the project with colleagues
-- Conducted the communication between an institution at *Favela* Vidigal and international students
-- Provided food and transportation for international students and children from *Favela* Vidigal
+- Conducted the communication between the institution *Todos na Luta* and international students
 
 ### SKILLS
 - **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata and Python
