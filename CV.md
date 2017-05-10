@@ -31,7 +31,7 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 
 ### SKILLS
 - **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata and Python
-- **Languages:** Native Portuguese, Fluent English, Intermediary Spanish
+- **Languages:** Native Portuguese, Fluent English, Intermediate Spanish
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
 - **Interests:** Arts, Sports, Traveling
