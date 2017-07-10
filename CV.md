@@ -1,14 +1,13 @@
 ## Carolina Sant'Ana Oliveira   
-Portuguese/Brazilian | 23 years old |
-Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santanaoliveira@tilburguniversity.edu   
+Brazilian | 23 years old |
+Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.93@gmail.com
 
 ### EDUCATION
-**MSc Economics - Track Behavioral Economics, Tilburg University** *Expected July 2017*
+**MSc Economics - Track Behavioral Economics, Tilburg University** *2016-2017*
   
   - A/B testing
   - Master thesis "Herding and the effect of experts on online movie ratings"
-  - Average score 8.07/ 10
-
+  
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (PUC-Rio)** *2012-2016*
 
   - Gave the commencement speech
@@ -17,6 +16,9 @@ Professor Verbernelaan 41, Tilburg, The Netherlands | +31 06 30801819 | c.santan
 **Exchange Program at Tilburg University** *2015*
 
 ### EXPERIENCE
+**Compare Europe Group - Performance Marketing Analyst**
+*Lisbon, Portugal*
+
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016)**            
 *Rio de Janeiro, Brazil*         
 - Analyzed price index
