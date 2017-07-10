@@ -6,7 +6,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.9
 **MSc Economics - Track Behavioral Economics, Tilburg University** *2016-2017*
   
   - A/B testing
-  - Master thesis "Herding and the effect of experts on online movie ratings"
+  - Master's thesis "Herding and the effect of experts on online movie ratings"
   
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (PUC-Rio)** *2012-2016*
 
@@ -16,7 +16,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.9
 **Exchange Program at Tilburg University** *2015*
 
 ### EXPERIENCE
-**Compare Europe Group - Performance Marketing Analyst**
+**Compare Europe Group - Performance Marketing Analyst (2017 - present)**
 *Lisbon, Portugal*
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016)**            
