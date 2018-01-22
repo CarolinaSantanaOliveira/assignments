@@ -1,12 +1,12 @@
 ## Carolina Sant'Ana Oliveira   
-Brazilian | 23 years old |
-Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.93@gmail.com
+Portuguese and Brazilian | 24 years old |
+Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93@gmail.com
 
 ### EDUCATION
 **MSc Economics - Track Behavioral Economics, Tilburg University** *2016-2017*
   
   - A/B testing
-  - Master's thesis "Herding and the effect of experts on online movie ratings"
+  - Master's thesis "Herding and the effect of experts on online movie ratings" - 9/10
   
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (PUC-Rio)** *2012-2016*
 
@@ -18,6 +18,10 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.9
 ### EXPERIENCE
 **Compare Europe Group - Performance Marketing Analyst (2017 - present)**
 *Lisbon, Portugal*
+- Performs analyses around marketing metrics
+- Coordinates paid marketing campaigns on Facebook
+- Supports the design and the content marketing teams deliviring market insights related to their activites
+- Prepares reportings using javascript and google sheets
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016)**            
 *Rio de Janeiro, Brazil*         
@@ -31,7 +35,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +31 06 30801819 | carolina.santana.9
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
 
 ### SKILLS
-- **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata and Python
+- **Computer:** Advanced knowledge of R and Excel; some knowledge of VBA, Stata, Python and JavaScript
 - **Languages:** Native Portuguese, Fluent English, Intermediate Spanish
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
