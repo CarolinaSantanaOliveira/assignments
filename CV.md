@@ -4,18 +4,20 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 
 ### EXPERIENCE
 **Compare Europe Group - Performance Marketing Analyst (2017 - present) - Portugal**
-      *CEG is the leading comparison platform for financial, telco and utility products accross Europe*
+
+*CEG is the leading comparison platform for financial, telco and utility products accross Europe*
 - Performs analyses around marketing metrics for five different countries, namely Belgium, Denmark, Finland, Norway and Portugal
 - Coordinates paid marketing campaigns on Facebook
 - Launches A/B tests to improve marketing campaigns
 - Supports the design and the content marketing teams deliviring marketing insights related to their activites
 - Prepares reports and fetch Facebook data using Graph API and JavaScript
 
-**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Rio de Janeiro, Brazil**        
+**The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Brazil**        
 - Analyzed price index
 - Helped calculate price index of the railway sector
 
 **Volunteer Work - *Troca Cultural* Project (2016) - Brazil**
+
 *Project in which exchange students from PUC-Rio and children from Favela Vidigal exchange culture*
 - Created the project with colleagues
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
