@@ -21,6 +21,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 
 *Project in which exchange students from PUC-Rio and children from Favela Vidigal exchange culture*
 - Created the project with colleagues
+- Coordinated the project in the day of the event
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
 
 ### EDUCATION
