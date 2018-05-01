@@ -37,7 +37,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
                                                
 ### SKILLS
-- **Computer:** Intermediate knowledge of R, Excel, Stata and JavaScript and SQL; some knowledge of VBA, and Python
+- **Computer:** Advanced knowledge of Excel; intermediate knowledge of R, Stata, JavaScript and SQL; some knowledge of VBA, and Python
 - **Languages:** Native Portuguese, Fluent English, Intermediate Spanish
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
