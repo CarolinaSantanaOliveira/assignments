@@ -7,10 +7,11 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 
 *CEG is the leading comparison platform for financial, telco and utility products across Europe*
 - Performs analyses around marketing metrics for four different countries, namely Belgium, Denmark, Finland, and Portugal
-- Coordinates paid marketing campaigns on Facebook
+- Analyzes consumer behaviour for five different products in four different countries
+- Manages paid marketing campaigns on Facebook
 - Launches A/B tests to improve marketing campaigns
 - Supports the design and the content marketing teams delivering marketing insights related to their activities
-- Prepares reports and fetch Facebook data using Graph API, JavaScript and SQL
+- Prepares reports using Graph API, JavaScript and SQL
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Brazil**        
 - Analyzed price index
