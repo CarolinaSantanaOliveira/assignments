@@ -6,11 +6,11 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 **Compare Europe Group - Performance Marketing Analyst (2017 - present) - Portugal**
 
 *CEG is the leading comparison platform for financial, telco and utility products across Europe*
-- Performs analyses around marketing metrics for five different countries, namely Belgium, Denmark, Finland, Norway, and Portugal
+- Performs analyses around marketing metrics for four different countries, namely Belgium, Denmark, Finland, and Portugal
 - Coordinates paid marketing campaigns on Facebook
 - Launches A/B tests to improve marketing campaigns
 - Supports the design and the content marketing teams delivering marketing insights related to their activities
-- Prepares reports and fetch Facebook data using Graph API and JavaScript
+- Prepares reports and fetch Facebook data using Graph API, JavaScript and SQL
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Brazil**        
 - Analyzed price index
@@ -25,9 +25,9 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 ### EDUCATION
 **MSc Economics - Behavioral Economics, Tilburg University (2016-2017) - The Netherlands**                              
 
-  - Graduated with distinction
+  - Graduated with distinction - grade 8.5/10
   - Master's thesis "Herding and the effect of experts on online movie ratings" - 9/10
-  
+    
 **B.A in Economics, Pontifical Catholic University of Rio de Janeiro (2012-2016) - Brazil**          
 
   - Gave the commencement speech
@@ -35,7 +35,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 **Exchange Program at Tilburg University (2015) - The Netherlands**                                                     
 
 ### SKILLS
-- **Computer:** Advanced knowledge of R, Excel, Stata and JavaScript; some knowledge of VBA, and Python
+- **Computer:** Intermediate knowledge of R, Excel, Stata and JavaScript and SQL; some knowledge of VBA, and Python
 - **Languages:** Native Portuguese, Fluent English, Intermediate Spanish
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
