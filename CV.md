@@ -19,7 +19,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 
 *CEG is the leading comparison platform for financial, telco and utility products across Europe*
 - Performs analyses around marketing metrics for four different countries, namely Belgium, Denmark, Finland, and Portugal
-- Analyzes consumer behaviour for five different products in four different countries
+- Analyzes consumer behavior for five different products in four different countries
 - Manages paid marketing campaigns on Facebook
 - Launches A/B tests to improve marketing campaigns
 - Supports the design and the content marketing teams delivering marketing insights related to their activities
