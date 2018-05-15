@@ -2,18 +2,6 @@
 Portuguese and Brazilian | 24 years old |
 Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93@gmail.com
 
-### EDUCATION
-**MSc Economics - Behavioral Economics, Tilburg University (2016-2017) - The Netherlands**                              
-
-  - Graduated with distinction - grade 8.5/10
-  - Master's thesis "Herding and the effect of experts on online movie ratings" - 9/10
-    
-**B.A in Economics, Pontifical Catholic University of Rio de Janeiro (2012-2016) - Brazil**          
-
-  - Gave the commencement speech
-  
-**Exchange Program at Tilburg University (2015) - The Netherlands** 
-
 ### EXPERIENCE
 **Compare Europe Group - Performance Marketing Analyst (2017 - present) - Portugal**
 
@@ -34,9 +22,21 @@ Avenida 5 de Outubro 21, Lisbon, Portugal | +351 913539973 | carolina.santana.93
 - Created the project with colleagues
 - Coordinated the project in the day of the event
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
-                                               
+
+### EDUCATION
+**MSc Economics - Behavioral Economics, Tilburg University (2016-2017) - The Netherlands**                              
+
+  - Graduated with distinction - grade 8.5/10
+  - Master's thesis "Herding and the effect of experts on online movie ratings" - 9/10
+    
+**B.A in Economics, Pontifical Catholic University of Rio de Janeiro (2012-2016) - Brazil**          
+
+  - Gave the commencement speech
+  
+**Exchange Program at Tilburg University (2015) - The Netherlands** 
+                                          
 ### SKILLS
-- **Computer:** Advanced knowledge of Excel; intermediate knowledge of R, Stata, JavaScript and SQL; some knowledge of VBA, and Python
+- **Computer:** Advanced user of Excel; intermediate knowledge of R, Stata, JavaScript and SQL; some knowledge of VBA, and Python
 - **Languages:** Native Portuguese, Fluent English, Intermediate Spanish
 - **Winter Course:** TiSEM Winter School on Entrepreneurship at Tilburg University (2015)
 - **Other:** Photography studies
