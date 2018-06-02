@@ -23,6 +23,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal |                    +351 913539973 | 
 - Coordinated the project in the day of the event
 - Conducted the communication between the institution *Todos na Luta* and international students from PUC-Rio
 
+
 ### EDUCATION
 
 **Machine Learning A-Z™: Hands-On Python and R in Data Science - Udemy (2018)**
