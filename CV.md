@@ -14,6 +14,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal |                    +351 913539973 | 
 - Prepares reports using Graph API, JavaScript and SQL
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Brazil**        
+
 - Analyzed price index
 - Helped calculate price index of the railway sector
 
