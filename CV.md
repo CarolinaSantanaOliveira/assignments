@@ -28,6 +28,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal |                    +351 913539973 | 
 **Machine Learning A-Z™: Hands-On Python and R in Data Science - Udemy (2018)**
   
   - Data Preprocessing, Regression, Classification, Clustering, Association Rule Learning, Reinforcement Learning, Natural Language Processing, Deep Learning, Dimensionality Reduction
+  
 
 **MSc Economics - Behavioral Economics, Tilburg University (2016-2017) - The Netherlands**                              
 
