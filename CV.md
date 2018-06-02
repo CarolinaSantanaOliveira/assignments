@@ -2,6 +2,7 @@
 Portuguese and Brazilian | 24 years old |
 Avenida 5 de Outubro 21, Lisbon, Portugal |                    +351 913539973 | carolina.santana.93@gmail.com
 
+
 ### EXPERIENCE
 **Compare Europe Group - Performance Marketing Analyst (2017 - present) - Portugal**
 
