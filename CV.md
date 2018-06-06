@@ -11,7 +11,7 @@ Avenida 5 de Outubro 21, Lisbon, Portugal |                         +351 9135399
 - Manages paid marketing campaigns on Facebook
 - Launches A/B tests to improve marketing campaigns
 - Supports the design and the content marketing teams delivering marketing insights related to their activities
-- Prepares reports using Graph API, JavaScript and SQL
+- Prepares reports using Graph API, JavaScript, SQL, and Google BigQuery
 
 **The Brazilian Institute of Economics at Getulio Vargas Foundation (FGV/IBRE) - Research Assistant (2015-2016) - Brazil**        
 
